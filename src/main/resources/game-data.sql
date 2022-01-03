@@ -1,0 +1,1 @@
+INSERT INTO game(genre, name, release_year) VALUES ('Sandbox', 'Minecraft', 2011);
